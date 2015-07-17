@@ -7,9 +7,18 @@ Once you have set up the template, you can start your project with essential fea
 1. Place this template under `templates/activities` directory of Android Studio.
 For Mac, this directory would be `/Applications/Android Studio.app/Contents/plugins/android/lib/templates/activities`.
 
+![image](https://github.com/tomoima525/SimpleAndroidArchitectureTemplate/blob/master/terminal.png?raw=true)
+
+
 2. Restart Android Studio. Then, start a new project from `File -> New Project...`
 
+![image](https://github.com/tomoima525/SimpleAndroidArchitectureTemplate/blob/master/directory.png?raw=true)
+
+
 3. Choose `SimpleAndroidArchitecture` from templates.
+
+![image](https://github.com/tomoima525/SimpleAndroidArchitectureTemplate/blob/master/templates.png?raw=true)
+
 
 ## What is simple android architecture?
 
