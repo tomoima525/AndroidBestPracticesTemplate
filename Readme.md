@@ -6,6 +6,7 @@ Once you have set up the template, you can start your project with essential fea
 ## How to use
 1. Place this template under `templates/activities` directory of Android Studio.
 For Mac, this directory would be `/Applications/Android Studio.app/Contents/plugins/android/lib/templates/activities`.
+
 2. Restart Android Studio. Then, start a new project from `File -> New Project...`
 
 3. Choose `SimpleAndroidArchitecture` from templates.
