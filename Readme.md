@@ -4,24 +4,25 @@ This is a template for creating a simple Android Architecture project based on [
 Once you have set up the template, you can start your project with essential features.
 
 ## How to use
-1. Place this template under `templates/activities` directory of Android Studio.
-For Mac, this directory would be `/Applications/Android Studio.app/Contents/plugins/android/lib/templates/activities`.
+1.Place this template under `templates/activities` directory of Android Studio.
+For Mac, this directory would be `/Applications/Android Studio.app/Contents/plugins/android/lib/templates/activities`.  
 
-![image](https://github.com/tomoima525/AndroidBestPracticesTemplate/blob/master/terminal.png?raw=true)
-
-
-2. Restart Android Studio. Then, start a new project from `File -> New Project...`
-
-![image](https://github.com/tomoima525/AndroidBestPracticesTemplate/blob/master/directory.png?raw=true)
+![image](https://github.com/tomoima525/AndroidBestPracticesTemplate/blob/master/terminal.png?raw=true)  
 
 
-3. Choose `Android Best Practices Template` from templates.
+2.Restart Android Studio. Then, start a new project from `File -> New Project...`  
 
-![image](https://github.com/tomoima525/AndroidBestPracticesTemplate/blob/master/templates.png?raw=true)
+![image](https://github.com/tomoima525/AndroidBestPracticesTemplate/blob/master/directory.png?raw=true)  
 
-4. You will get the full sets of Android Best Practices Architecture. Enjoy! 
+
+3.Choose `Android Best Practices Template` from templates.  
+
+![image](https://github.com/tomoima525/AndroidBestPracticesTemplate/blob/master/templates.png?raw=true)  
+
+
+4.You will get the full sets of Android Best Practices Architecture. Enjoy!  
  
-![image](https://github.com/tomoima525/AndroidBestPracticesTemplate/blob/master/directory_shown.png?raw=true)
+![image](https://github.com/tomoima525/AndroidBestPracticesTemplate/blob/master/directory_shown.png?raw=true)  
 
 ## What is Android Best Practices?
 
