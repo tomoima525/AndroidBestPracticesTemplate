@@ -15,7 +15,7 @@ For Mac, this directory would be `/Applications/Android Studio.app/Contents/plug
 ![image](https://github.com/tomoima525/AndroidBestPracticesTemplate/blob/master/directory.png?raw=true)
 
 
-3. Choose `SimpleAndroidArchitecture` from templates.
+3. Choose `Android Best Practices Template` from templates.
 
 ![image](https://github.com/tomoima525/AndroidBestPracticesTemplate/blob/master/templates.png?raw=true)
 
