@@ -1,28 +1,28 @@
-#Simple Android Architecture Template
+#Android Best Practices Template
 
-This is a template for creating a simple Android Architecture project.  
+This is a template for creating a simple Android Architecture project based on [Android Best Practices](https://github.com/futurice/android-best-practices).  
 Once you have set up the template, you can start your project with essential features.
 
 ## How to use
 1. Place this template under `templates/activities` directory of Android Studio.
 For Mac, this directory would be `/Applications/Android Studio.app/Contents/plugins/android/lib/templates/activities`.
 
-![image](https://github.com/tomoima525/SimpleAndroidArchitectureTemplate/blob/master/terminal.png?raw=true)
+![image](https://github.com/tomoima525/AndroidBestPracticesTemplate/blob/master/terminal.png?raw=true)
 
 
 2. Restart Android Studio. Then, start a new project from `File -> New Project...`
 
-![image](https://github.com/tomoima525/SimpleAndroidArchitectureTemplate/blob/master/directory.png?raw=true)
+![image](https://github.com/tomoima525/AndroidBestPracticesTemplate/blob/master/directory.png?raw=true)
 
 
 3. Choose `SimpleAndroidArchitecture` from templates.
 
-![image](https://github.com/tomoima525/SimpleAndroidArchitectureTemplate/blob/master/templates.png?raw=true)
+![image](https://github.com/tomoima525/AndroidBestPracticesTemplate/blob/master/templates.png?raw=true)
 
 
-## What is simple android architecture?
+## What is Android Best Practices?
 
-The architecture is based on [Android Best Practices](https://github.com/futurice/android-best-practices), but I made few changes for better usage.
+[Android Best Practices](https://github.com/futurice/android-best-practices) is the great knowledge of android developments. The template is based on this architecture but I made few changes for better usage.
 
 ###1. Project Architecture  
 `prefs` , `apis` , `provider` are placed below `models` directory so that all data can be controlled under these package. 
