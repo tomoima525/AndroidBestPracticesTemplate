@@ -4,16 +4,18 @@
     <merge from="AndroidManifest.xml.ftl"
              to="${escapeXmlAttribute(manifestOut)}/AndroidManifest.xml" />
 
-    <merge from="res/values/dimens.xml.ftl"
+    <merge from="res/values/dimens.xml"
              to="${escapeXmlAttribute(resOut)}/values/dimens.xml" />
     <merge from="res/values-w820dp/dimens.xml"
              to="${escapeXmlAttribute(resOut)}/values-w820dp/dimens.xml" />
+
     <merge from="res/values/strings.xml.ftl"
              to="${escapeXmlAttribute(resOut)}/values/strings.xml" />
-    <merge from="res/values/bool.xml.ftl"
-             to="${escapeXmlAttribute(resOut)}/values/bool.xml" />
-    <merge from="res/values-land/bool.xml.ftl"
-             to="${escapeXmlAttribute(resOut)}/values-land/bool.xml" />
+
+    <merge from="res/values/bools.xml"
+             to="${escapeXmlAttribute(resOut)}/values/bools.xml" />
+    <merge from="res/values-land/bools.xml"
+             to="${escapeXmlAttribute(resOut)}/values-land/bools.xml" />
 
     <instantiate from="res/layout/activity_simple.xml.ftl"
                    to="${escapeXmlAttribute(resOut)}/layout/${layoutName}.xml" />

@@ -19,6 +19,9 @@ For Mac, this directory would be `/Applications/Android Studio.app/Contents/plug
 
 ![image](https://github.com/tomoima525/AndroidBestPracticesTemplate/blob/master/templates.png?raw=true)
 
+4. You will get the full sets of Android Best Practices Architecture. Enjoy! 
+ 
+![image](https://github.com/tomoima525/AndroidBestPracticesTemplate/blob/master/directory_shown.png?raw=true)
 
 ## What is Android Best Practices?
 

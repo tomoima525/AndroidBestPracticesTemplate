@@ -5,7 +5,7 @@
     name="Android Best Practices Template"
     minApi="7"
     minBuildApi="14"
-    description="Creates a simple Android architecture based on Android Best Practices. This includes a new blank activity with an action bar.">
+    description="Creates a simple Android architecture based on Android Best Practices">
 
     <category value="Activity" />
     <formfactor value="Mobile" />
