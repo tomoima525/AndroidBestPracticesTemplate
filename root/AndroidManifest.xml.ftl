@@ -4,7 +4,7 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <application>
-        <activity android:name="${relativePackage}.${activityClass}"
+        <activity android:name=".activity${relativePackage}.${activityClass}"
             <#if isNewProject>
             android:label="@string/app_name"
             <#else>
